@@ -7,7 +7,6 @@ Used for setting up a new dev machine.
 - rbenv
 - ruby-build
 - exuberant-ctags
-- ag
 - Create an SSH key and output it
 - Dropbox
 - Slack
