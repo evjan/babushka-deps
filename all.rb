@@ -3,5 +3,6 @@ dep 'all' do
            'emacs',
            'git',
            'benhoskings:rbenv',
+           'ruby-build',
            'ssh key'
 end
