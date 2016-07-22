@@ -12,5 +12,5 @@ dep 'emacs' do
   requires 'spacemacs.config'
   requires 'spacemacs.dotfile'
   met? { which 'emacs' }
-  meet { shell "sudo apt-get install emacs"}
+  meet { installs 'emacs' }
 end
