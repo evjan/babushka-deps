@@ -3,7 +3,6 @@
 Used for setting up a new dev machine.
 
 ## TODO
-- Git
 - rbenv
 - ruby-build
 - exuberant-ctags
