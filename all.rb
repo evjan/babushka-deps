@@ -1,8 +1,5 @@
 dep 'all' do
-  requires 'ag',
-           'emacs',
-           'git',
-           'benhoskings:rbenv',
+  requires 'git',
            'ruby-build',
            'ssh key'
 end
